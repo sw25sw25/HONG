@@ -2,7 +2,7 @@
 	pageEncoding="EUC-KR"%>
 <%@ page import="java.sql.*,java.text.SimpleDateFormat,java.util.Date"%>
 <%
-	final int ROWSIZE = 5;
+	final int ROWSIZE = 10;
 	final int BLOCK = 5;
 
 	int pg = 1;
