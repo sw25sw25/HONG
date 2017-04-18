@@ -2,7 +2,7 @@
 	pageEncoding="EUC-KR"%>
 <%@ page import="java.sql.*,java.text.SimpleDateFormat,java.util.Date"%>
 <%
-	final int ROWSIZE = 10;
+	final int ROWSIZE = 5;
 	final int BLOCK = 5;
 
 	int pg = 1;
@@ -77,9 +77,9 @@
    <td width="5"><img src="img/table_left.gif" width="5" height="30" /></td>
    <td width="73">번호</td>
    <td width="379">제목</td>
-   <td width="73">작성자</td>
+   <td width="100">작성자</td>
    <td width="164">작성일</td>
-   <td width="58">조회수</td>
+   <td width="65">조회수</td>
    <td width="7"><img src="img/table_right.gif" width="5" height="30" /></td>
   </tr>
 <%

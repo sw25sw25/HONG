@@ -52,9 +52,8 @@
 						</tr>
 						<tr align="center">
 							<td>&nbsp;</td>
-							<td colspan="2"><input type=button value="昏力"
-								OnClick="javascript:deleteCheck();"> <input type=button
-								value="秒家" OnClick="javascript:history.back(-1)">
+							<td colspan="2"><input type=button value="昏力" OnClick="javascript:deleteCheck();">
+							<input type=button value="秒家" OnClick="javascript:history.back(-1)">
 							<td>&nbsp;</td>
 						</tr>
 					</table>

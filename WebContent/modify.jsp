@@ -130,9 +130,9 @@
 						</tr>
 						<tr align="center">
 							<td>&nbsp;</td>
-							<td colspan="2"><input type="button" value="수정"
-								OnClick="javascript:modifyCheck();"> <input type=button
-								value="취소" OnClick="javascript:history.back(-1)">
+							<td colspan="2">
+							<input type="button" value="수정" OnClick="javascript:modifyCheck();">
+							<input type=button value="취소" OnClick="javascript:history.back(-1)">
 							<td>&nbsp;</td>
 						</tr>
 					</table>
